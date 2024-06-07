@@ -6,7 +6,6 @@ import static org.hamcrest.Matchers.hasSize;
 import io.restassured.RestAssured;
 import io.restassured.http.ContentType;
 import java.util.List;
-import org.junit.Before;
 import org.junit.jupiter.api.AfterAll;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.BeforeEach;
